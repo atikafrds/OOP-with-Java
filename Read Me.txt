@@ -1,0 +1,9 @@
+1. Folder src berisi seluruh source code untuk tugas besar ini
+2. Pada folder src, terdapat subfolder bernama JUnit yang berisi
+tester untuk setiap unit yang testable dengan memanfaatkan JUnit
+3. Folder doc berisi dokumentasi tugas besar meliputi log activity,
+dokumen teknis, dan pembagian tugas dari seluruh anggota kelompok
+pada tugas besar ini
+4. Pada folder doc, terdapat subfolder JavaDoc yang berisi hasil
+generate dokumentasi program menggunakan JavaDoc
+5. Folder bin berisi file .class dari program
